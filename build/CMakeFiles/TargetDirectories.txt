@@ -1,0 +1,3 @@
+/workspace/dune-book/build/CMakeFiles/Proyecto01.dir
+/workspace/dune-book/build/CMakeFiles/edit_cache.dir
+/workspace/dune-book/build/CMakeFiles/rebuild_cache.dir
